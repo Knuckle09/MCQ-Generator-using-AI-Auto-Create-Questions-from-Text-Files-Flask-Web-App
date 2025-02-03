@@ -1,4 +1,6 @@
-**MCQ Generator using AI Auto Create Questions **
+**MCQ Generator using AI Auto Create Questions** 
+
+**Demo Images**
 ![image](https://github.com/user-attachments/assets/1a111142-bfd0-49fb-b14f-217d21c52e5b)
 ### **Project Overview: MCQ Generator Web App**  
 
